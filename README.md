@@ -1,2 +1,1 @@
-This is my readme file
- this is my readme file V2!
+This repository is used to learn about GitHub pull requests, pushes, pulls, and branches.
